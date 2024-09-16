@@ -1,0 +1,10 @@
+[
+  {
+    "command": "play",
+    "info": "• O Sistema Funciona Da Seguinte Forma:\n\n• Para Usar É Simples, Use: #prefix#Play Like That \n\nEspere Alguns Segundos, E Será Enviada Uma Lista, Com As Músicas Encontradas, Clique Sobre O Nome Da Música E Espere, Ele Irá Baixar O Áudio Automaticamente"
+  },
+  {
+    "command": "menu",
+    "info": "• Este Comando Consiste Em Enviar Uma Lista Com Os Menus Disponíveis Para Membros e Administradores Usarem;"
+  }
+]

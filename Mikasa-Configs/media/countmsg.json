@@ -1,0 +1,106 @@
+[
+  {
+    "groupId": "120363227860868738@g.us",
+    "numbers": [
+      {
+        "id": "556196697514@s.whatsapp.net",
+        "messages": 33,
+        "figus": 0,
+        "cmd_messages": 13,
+        "aparelho": "Android"
+      },
+      {
+        "id": "5511968053559@s.whatsapp.net",
+        "messages": 14,
+        "cmd_messages": 0,
+        "aparelho": "Android",
+        "figus": 0
+      },
+      {
+        "id": "5513997015765@s.whatsapp.net",
+        "messages": 6,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp Web",
+        "figus": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363150673422517@g.us",
+    "numbers": [
+      {
+        "id": "556196697514@s.whatsapp.net",
+        "messages": 9,
+        "figus": 0,
+        "cmd_messages": 16,
+        "aparelho": "Android"
+      },
+      {
+        "id": "258858119033@s.whatsapp.net",
+        "messages": 8,
+        "cmd_messages": 9,
+        "aparelho": "Android",
+        "figus": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363186697181310@g.us",
+    "numbers": [
+      {
+        "id": "556196697514@s.whatsapp.net",
+        "messages": 3,
+        "figus": 0,
+        "cmd_messages": 1,
+        "aparelho": "Android"
+      },
+      {
+        "id": "556892212483@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android",
+        "figus": 0
+      },
+      {
+        "id": "5513997015765@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp Web",
+        "figus": 0
+      },
+      {
+        "id": "556283086924@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android",
+        "figus": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363259478176790@g.us",
+    "numbers": [
+      {
+        "id": "559881006357@s.whatsapp.net",
+        "messages": 6,
+        "figus": 0,
+        "cmd_messages": 0,
+        "aparelho": "Android"
+      },
+      {
+        "id": "559484115541@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android",
+        "figus": 0
+      },
+      {
+        "id": "557999480527@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp Web",
+        "figus": 0
+      }
+    ]
+  }
+]
